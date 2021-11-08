@@ -1,11 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using Mutagen.Bethesda;
-using Mutagen.Bethesda.Synthesis;
-using Mutagen.Bethesda.Skyrim;
-using System.Threading.Tasks;
 using Mutagen.Bethesda.Plugins.Exceptions;
+using Mutagen.Bethesda.Skyrim;
+using Mutagen.Bethesda.Synthesis;
+using System;
+using System.Threading.Tasks;
 
 namespace NPC_DeLeveler
 {
